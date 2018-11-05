@@ -1,7 +1,8 @@
 import cv2
 import os
 
-#Normalize and Catagorize Image into difference folder
+##======Normalize and Catagorize Image into difference folder========##
+#Download image from "https://www.kaggle.com/rhammell/planesnet/data" and Keep them in "imgPATH"
 imgPATH = "D:/1.airplane_detection_preTrainModel/planesnet/"
 imgPATHplan = ""
 count = 0
